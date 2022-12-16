@@ -1,0 +1,27 @@
+body{
+    margin: auto;
+    width: 640;
+    padding: 50px;
+    font-family: Arial;
+    color: rgb(0, 0, 0);
+    align-items: center;
+}
+div {
+    display: flex;
+    justify-content: center;
+    }
+.Contenedor {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.Img12AM{
+margin-right: 10px;
+}
+.Img12dsa{
+    margin-right: 10px;
+}
+.h1{
+    text-align: center;
+}
